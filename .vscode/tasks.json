@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Launch Alibre Design for Testing",
+			"type": "shell",
+			"command": "& \"C:\\Program Files\\Alibre Design 28.1.1.28227\\Program\\Alibre Design.exe\"",
+			"isBackground": true,
+			"group": "test"
+		},
+		{
+			"label": "Launch Alibre Design for Testing",
+			"type": "shell",
+			"command": "Start-Process \"C:\\Program Files\\Alibre Design 28.1.1.28227\\Program\\Alibre Design.exe\"",
+			"isBackground": true,
+			"group": "test"
+		}
+	]
+}

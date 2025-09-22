@@ -1,0 +1,10 @@
+﻿<AlibreDesignAddOn specificationVersion="2" friendlyName="alibre-assembly-constraints-pp-addon">
+<Author name="Stephen S. Mitchell" link="https://github.com/stephensmitchell/alibre-assembly-constraints-pp-addon"/>
+   <Copyright>Copyright (c) 2025 Stephen S. Mitchell</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="alibre-assembly-constraints-pp-addon.dll"/>
+   <Icon location="logo.ico"/> 
+   <Menu text="alibre-assembly-constraints-pp-addon"/>
+   <Description>alibre-assembly-constraints-pp-addon</Description> 
+   <Workspace type="Always"/>
+   <Property name="Identifier" value="alibre-assembly-constraints-pp-addon"/>
+</AlibreDesignAddOn>

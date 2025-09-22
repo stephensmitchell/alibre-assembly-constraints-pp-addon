@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Alibre Design Add-Ons]
+"alibre-assembly-constraints-pp-addon"="T:\\local\\alibre-assembly-constraints-pp-addon\\src\\bin\\Debug\\net481"
