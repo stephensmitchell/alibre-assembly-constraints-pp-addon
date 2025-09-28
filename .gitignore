@@ -12,6 +12,10 @@ private/
 private
 **/private
 
+# System folder - installation and build files
+system/
+**/system/
+
 # User-specific files
 *.rsuser
 *.suo
